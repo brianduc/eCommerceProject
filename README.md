@@ -1,5 +1,5 @@
 # Buylicious
-This project is an e-commerce web application called Buylicious which is built on the Java Servlet platform
+This project is an e-commerce web application called Buylicious which is built on the Jarkata EE
 
 ## Installation
 
